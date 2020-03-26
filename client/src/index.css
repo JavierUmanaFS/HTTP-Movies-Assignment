@@ -75,3 +75,21 @@ body {
   color: red;
   text-align: center;
 }
+
+.delete-button{
+  background-color: red;
+  color: black; 
+  width: 10%;
+  height: 30px;
+  text-align: center;
+  padding: 5px;
+}
+
+.update-button{
+  color: white;
+  background-color: cornflowerblue;
+  width: 10%;
+  height: 30px;
+  text-align: center;
+  padding: 5px;
+}
